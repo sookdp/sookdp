@@ -17,7 +17,7 @@
 
 </div>
 
-## 〉 about_me.tsx
+## 〉 a_propos.tsx
 
 ```typescript
 const sokhna = {
@@ -33,7 +33,7 @@ const sokhna = {
 
 ---
 
-## 〉 a_propos.sh
+## 〉 competences.sh
 
 <div align="center">
 
@@ -87,7 +87,7 @@ const sokhna = {
 
 ---
 
-## 〉 github_stats.json
+## 〉 stats.json
 
 <div align="center">
 
@@ -104,18 +104,6 @@ const sokhna = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio.blydevtech.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sookdp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:smdbdiop@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sokhna-diop)
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&animation=twinkling" width="100%"/>
-
-*« Le code est de la poésie en mouvement »* ✨
-
-![Visitor Badge](https://visitor-badge.livelyskies.com/badge?page_id=sookdp.sookdp)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/sokhna-diop-998647264)
 
 </div>
