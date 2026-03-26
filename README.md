@@ -75,8 +75,8 @@ const sokhna = {
 | Projet | Description | Stack | Lien |
 |-----------|---------------|---------|---------|
 | **Portfolio** | Mon portfolio personnel | React | [Voir](https://portfolio.blydevtech.com) |
-| **Manga Library** | Site sur les mangas avec recherche d'animés | HTML · CSS · JS · API Anilist | [Voir](https://sookdp.github.io/manga-library) |
-| **Qassaid PDF** | Récupération de fichiers PDF depuis Google Drive et affiche dynamique sur un site en parallèle | React · API Google Drive | [GitHub](https://github.com/sookdp/qassaid-en-pdf) |
+| **Manga Library** | Site sur les mangas avec affichage des mangas existants dans ma bibliothèque physique | HTML · CSS · JS · API Anilist | [Voir](https://sookdp.github.io/manga-library) |
+| **Qassaid PDF** | Récupération de fichiers PDF depuis Google Drive et affichage dynamique sur un site en parallèle | React · API Google Drive | [GitHub](https://github.com/sookdp/qassaid-en-pdf) |
 | **Calepinage Solaire (DAISUN)** | Développement et optimisation de deux outils de calepinage pour installations solaires | Java Spring Boot . React | [Voir](https://www.gammapv.solar/signIn) |
 | **Simulateur Solaire** | Simulateur d'économies d'une centrale solaire | HTML . CSS . JS | [Voir](https://daisun.solar/votre-bilan-solaire/) |
 | **Site DAISUN** | Création du site vitre de l'entreprise à partir d'une maquette | Wordpress | [Voir](https://daisun.solar/) |
